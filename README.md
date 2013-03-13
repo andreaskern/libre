@@ -1,7 +1,7 @@
 libre
 =====
 
-collection of links to creative commons licensed work
+my personal collection of links to creative commons licensed work.
 
 to download a file use wget and use the *.lnk file as input
 
